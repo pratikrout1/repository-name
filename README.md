@@ -1,7 +1,6 @@
 # Reproducible analysis example - R
 
 This is an example project repository to illustrate what a reproducible analysis might look like as discussed in more detail in the [Reproducibility in Cancer Informatics course](https://github.com/jhudsl/Reproducibility_in_Cancer_Informatics).  
-It can be used as a template or otherwise borrowed from. This final sentence is an example edit for the purpose of following this course, though I suspect more edits will occur as time progresses. This is a secondary edit. 
 
 _This example analysis:_  
 
